@@ -341,7 +341,7 @@ private void Load()
 
 ## 9. Screenshots
 
-> **<img width="975" height="520" alt="image" src="https://github.com/user-attachments/assets/0092931f-d6e7-4cfc-b591-fc8ec120a60c" />
+> <img width="975" height="520" alt="image" src="https://github.com/user-attachments/assets/0092931f-d6e7-4cfc-b591-fc8ec120a60c" />
 >  <img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/366dfebc-2bab-4891-8bc4-b73f34e1f63e" />
 >  <img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/024aabfd-abc8-4350-8842-5c4a41896754" />
 >  <img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/306ec985-f7ad-4b5e-96c1-45eb9d5d9ec8" />
@@ -350,7 +350,6 @@ private void Load()
 >  <img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/44809758-4b8f-469f-916d-15d1571d3b65" />
 >  <img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/3ce46f2c-1e3e-48bd-ab67-3fdb150371c0" />
 >  <img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/d04863de-c5c9-4265-938f-62e74af579b4" />
-**
 
 | Screen | Description |
 |--------|-------------|
