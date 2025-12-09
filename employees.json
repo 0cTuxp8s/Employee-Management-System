@@ -1,0 +1,226 @@
+[
+  {
+    "Id": 1,
+    "Name": "Ali Hassan",
+    "Age": 30,
+    "Department": "IT",
+    "Position": "Software Engineer",
+    "Email": "ali.hassan@company.com",
+    "Phone": "\u002B92-300-1234567",
+    "Salary": 72000,
+    "JoinDate": "2021-03-15T00:00:00",
+    "VacationDays": 18,
+    "Status": 0,
+    "Attendance": [
+      {
+        "Date": "2025-12-19T00:00:00",
+        "Status": 2,
+        "CheckIn": "00:03:23.6217354",
+        "CheckOut": null,
+        "Notes": ""
+      }
+    ],
+    "MonthlySalary": 6000,
+    "YearsOfService": 4
+  },
+  {
+    "Id": 2,
+    "Name": "Sara Ahmed",
+    "Age": 28,
+    "Department": "HR",
+    "Position": "HR Manager",
+    "Email": "sara.ahmed@company.com",
+    "Phone": "\u002B92-321-2345678",
+    "Salary": 60000,
+    "JoinDate": "2020-07-01T00:00:00",
+    "VacationDays": 22,
+    "Status": 0,
+    "Attendance": [],
+    "MonthlySalary": 5000,
+    "YearsOfService": 5
+  },
+  {
+    "Id": 3,
+    "Name": "Omar Khalid",
+    "Age": 35,
+    "Department": "IT",
+    "Position": "Team Lead",
+    "Email": "omar.khalid@company.com",
+    "Phone": "\u002B92-333-3456789",
+    "Salary": 90000,
+    "JoinDate": "2018-01-10T00:00:00",
+    "VacationDays": 15,
+    "Status": 0,
+    "Attendance": [
+      {
+        "Date": "2025-12-10T00:00:00+08:00",
+        "Status": 3,
+        "CheckIn": null,
+        "CheckOut": null,
+        "Notes": ""
+      },
+      {
+        "Date": "2025-12-26T00:00:00",
+        "Status": 1,
+        "CheckIn": null,
+        "CheckOut": null,
+        "Notes": ""
+      },
+      {
+        "Date": "2025-12-29T00:00:00",
+        "Status": 1,
+        "CheckIn": null,
+        "CheckOut": null,
+        "Notes": ""
+      },
+      {
+        "Date": "2025-12-19T00:00:00",
+        "Status": 0,
+        "CheckIn": null,
+        "CheckOut": null,
+        "Notes": ""
+      },
+      {
+        "Date": "2025-12-21T00:00:00",
+        "Status": 0,
+        "CheckIn": null,
+        "CheckOut": null,
+        "Notes": ""
+      }
+    ],
+    "MonthlySalary": 7500,
+    "YearsOfService": 7
+  },
+  {
+    "Id": 4,
+    "Name": "Fatima Noor",
+    "Age": 26,
+    "Department": "IT",
+    "Position": "Junior Developer",
+    "Email": "fatima.noor@company.com",
+    "Phone": "\u002B92-345-4567890",
+    "Salary": 48000,
+    "JoinDate": "2023-06-20T00:00:00",
+    "VacationDays": 20,
+    "Status": 0,
+    "Attendance": [],
+    "MonthlySalary": 4000,
+    "YearsOfService": 2
+  },
+  {
+    "Id": 5,
+    "Name": "Ahmed Bilal",
+    "Age": 40,
+    "Department": "Finance",
+    "Position": "Finance Officer",
+    "Email": "ahmed.bilal@company.com",
+    "Phone": "\u002B92-301-5678901",
+    "Salary": 65000,
+    "JoinDate": "2017-11-05T00:00:00",
+    "VacationDays": 12,
+    "Status": 0,
+    "Attendance": [],
+    "MonthlySalary": 5416.67,
+    "YearsOfService": 8
+  },
+  {
+    "Id": 6,
+    "Name": "Zainab Khan",
+    "Age": 32,
+    "Department": "Marketing",
+    "Position": "Marketing Manager",
+    "Email": "zainab.khan@company.com",
+    "Phone": "\u002B92-312-6789012",
+    "Salary": 75000,
+    "JoinDate": "2019-04-22T00:00:00",
+    "VacationDays": 16,
+    "Status": 0,
+    "Attendance": [],
+    "MonthlySalary": 6250,
+    "YearsOfService": 6
+  },
+  {
+    "Id": 7,
+    "Name": "Hassan Ali",
+    "Age": 45,
+    "Department": "Operations",
+    "Position": "Operations Director",
+    "Email": "hassan.ali@company.com",
+    "Phone": "\u002B92-323-7890123",
+    "Salary": 120000,
+    "JoinDate": "2015-02-14T00:00:00",
+    "VacationDays": 25,
+    "Status": 0,
+    "Attendance": [],
+    "MonthlySalary": 10000,
+    "YearsOfService": 10
+  },
+  {
+    "Id": 8,
+    "Name": "Ayesha Siddiqui",
+    "Age": 24,
+    "Department": "HR",
+    "Position": "HR Assistant",
+    "Email": "ayesha.siddiqui@company.com",
+    "Phone": "\u002B92-334-8901234",
+    "Salary": 38000,
+    "JoinDate": "2024-01-08T00:00:00",
+    "VacationDays": 20,
+    "Status": 0,
+    "Attendance": [],
+    "MonthlySalary": 3166.67,
+    "YearsOfService": 1
+  },
+  {
+    "Id": 9,
+    "Name": "salman",
+    "Age": 20,
+    "Department": "Engineering",
+    "Position": "Assistant",
+    "Email": "salman@gmail.com",
+    "Phone": "\u002B867346735463",
+    "Salary": 100300,
+    "JoinDate": "2025-12-10T00:00:00+08:00",
+    "VacationDays": 28,
+    "Status": 0,
+    "Attendance": [
+      {
+        "Date": "2025-12-10T00:00:00",
+        "Status": 0,
+        "CheckIn": "08:00:00",
+        "CheckOut": "18:00:00",
+        "Notes": ""
+      },
+      {
+        "Date": "2025-12-11T00:00:00",
+        "Status": 3,
+        "CheckIn": "14:43:04.6700000",
+        "CheckOut": "18:01:01",
+        "Notes": "Late for traffic jam"
+      },
+      {
+        "Date": "2025-12-12T00:00:00",
+        "Status": 0,
+        "CheckIn": "08:00:00",
+        "CheckOut": "18:00:00",
+        "Notes": ""
+      },
+      {
+        "Date": "2025-12-13T00:00:00",
+        "Status": 1,
+        "CheckIn": "08:00:00",
+        "CheckOut": "18:00:00",
+        "Notes": "absent for sick"
+      },
+      {
+        "Date": "2025-12-14T00:00:00",
+        "Status": 0,
+        "CheckIn": "08:00:00",
+        "CheckOut": "18:00:00",
+        "Notes": ""
+      }
+    ],
+    "MonthlySalary": 8358.33,
+    "YearsOfService": 0
+  }
+]

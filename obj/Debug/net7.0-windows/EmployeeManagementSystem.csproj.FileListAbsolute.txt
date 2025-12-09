@@ -1,0 +1,15 @@
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\bin\Debug\net7.0-windows\employees.json
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\bin\Debug\net7.0-windows\EmployeeManagementSystem.exe
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\bin\Debug\net7.0-windows\EmployeeManagementSystem.deps.json
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\bin\Debug\net7.0-windows\EmployeeManagementSystem.runtimeconfig.json
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\bin\Debug\net7.0-windows\EmployeeManagementSystem.dll
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\bin\Debug\net7.0-windows\EmployeeManagementSystem.pdb
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\obj\Debug\net7.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\obj\Debug\net7.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\obj\Debug\net7.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\obj\Debug\net7.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\obj\Debug\net7.0-windows\EmployeeManagementSystem.dll
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\obj\Debug\net7.0-windows\refint\EmployeeManagementSystem.dll
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\obj\Debug\net7.0-windows\EmployeeManagementSystem.pdb
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\obj\Debug\net7.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+D:\NLP\Employee Management Systemc#\EmployeeManagementSystem\obj\Debug\net7.0-windows\ref\EmployeeManagementSystem.dll
