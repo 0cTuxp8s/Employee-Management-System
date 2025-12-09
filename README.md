@@ -144,9 +144,7 @@ EmployeeManagementSystem/
 | **Summary Stats** | Present/Absent/Leave/Late/Early counts and attendance percentage |
 
 **Attendance Percentage Calculation:**
-```
-Attendance % = (Present + Late + EarlyLeave) / Working Weekdays × 100
-```
+##Attendance % = (Present + Late + EarlyLeave) / Working Weekdays × 100##
 - Weekends (Saturday, Sunday) are excluded
 - Only recorded entries affect the numerator; unrecorded days reduce percentage
 
