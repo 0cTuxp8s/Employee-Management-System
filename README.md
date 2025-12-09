@@ -69,7 +69,7 @@ The primary objectives of this project are:
 
 The application follows a **layered architecture** pattern:
 
-```
+
 ┌─────────────────────────────────────────────────────┐
 │                  Presentation Layer                 │
 │         (Windows Forms - UI Components)             │
@@ -89,7 +89,7 @@ The application follows a **layered architecture** pattern:
 │            (JSON File Persistence)                  │
 │               employees.json                        │
 └─────────────────────────────────────────────────────┘
-```
+
 
 ### Project Structure
 
@@ -113,7 +113,7 @@ EmployeeManagementSystem/
 └──── Services/
     └── EmployeeManager.cs        # Core business logic
 
----
+```
 
 ## 5. Features & Functionality
 
@@ -170,7 +170,7 @@ EmployeeManagementSystem/
 | **Statistics Dashboard** | Employee count, department breakdown, payroll by department |
 
 ### 5.7 Data Export
-
+```
 - Export employee roster to CSV format
 - Includes all fields: ID, Name, Age, Department, Position, Email, Phone, Salary, Join Date, Vacation Days, Status
 
@@ -187,7 +187,7 @@ The application features a **modern, professional UI** with:
 - **Status Bar:** Shows employee count, active count, monthly payroll
 
 ### Color Scheme
-
+```
 | Element | Color | Purpose |
 |---------|-------|---------|
 | Primary | #0078D4 | Headers, buttons, accents |
@@ -196,7 +196,7 @@ The application features a **modern, professional UI** with:
 | Danger | #DC3545 | Delete actions |
 | Warning | #FFA500 | Salary raise |
 | Background | #F0F2F5 | Form backgrounds |
-
+```
 ### Design Principles
 
 1. **Consistency:** Uniform styling across all forms
