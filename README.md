@@ -171,6 +171,7 @@ EmployeeManagementSystem/
 | **Payroll Summary** | Total monthly/annual payroll, average salary, salary range |
 | **Statistics Dashboard** | Employee count, department breakdown, payroll by department |
 
+
 ### 5.7 Data Export
 ```
 - Export employee roster to CSV format
