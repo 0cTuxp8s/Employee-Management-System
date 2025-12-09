@@ -174,10 +174,10 @@ EmployeeManagementSystem/
 - Export employee roster to CSV format
 - Includes all fields: ID, Name, Age, Department, Position, Email, Phone, Salary, Join Date, Vacation Days, Status
 
----
+```
 
 ## 6. User Interface Design
-
+```
 The application features a **modern, professional UI** with:
 
 - **Menu Bar:** File, Employee, Reports, Help menus
@@ -204,12 +204,12 @@ The application features a **modern, professional UI** with:
 3. **Feedback:** Status messages, confirmation dialogs, validation errors
 4. **Simplicity:** Clean layout without clutter
 
----
+```
 
 ## 7. Database / Data Storage
-
+```
 The application uses **JSON file storage** (`employees.json`) for simplicity and portability.
-
+```
 ### Employee Data Structure
 
 ```json
@@ -238,17 +238,17 @@ The application uses **JSON file storage** (`employees.json`) for simplicity and
 ```
 
 ### Why JSON?
-
+```
 - No database server required
 - Human-readable format
 - Easy to backup and transfer
 - Sufficient for single-user desktop application
 - Native .NET support via `System.Text.Json`
 
----
+```
 
 ## 8. Key Code Implementation
-
+```
 ### 8.1 Employee Model (`Models/Employee.cs`)
 
 ```csharp
@@ -341,7 +341,10 @@ private void Load()
 
 ## 9. Screenshots
 
-> **Note:** Place screenshots in `screenshots/` folder and reference them here.
+> **<img width="975" height="520" alt="image" src="https://github.com/user-attachments/assets/0092931f-d6e7-4cfc-b591-fc8ec120a60c" />
+**
+>  `<img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/366dfebc-2bab-4891-8bc4-b73f34e1f63e" />
+`
 
 | Screen | Description |
 |--------|-------------|
