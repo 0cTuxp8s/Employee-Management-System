@@ -68,7 +68,7 @@ The primary objectives of this project are:
 ## 4. System Architecture
 
 The application follows a **layered architecture** pattern:
-
+```
 
 ┌─────────────────────────────────────────────────────┐
 │                  Presentation Layer                 │
@@ -90,7 +90,7 @@ The application follows a **layered architecture** pattern:
 │               employees.json                        │
 └─────────────────────────────────────────────────────┘
 
-
+```
 ### Project Structure
 
 ```
@@ -144,7 +144,9 @@ EmployeeManagementSystem/
 | **Summary Stats** | Present/Absent/Leave/Late/Early counts and attendance percentage |
 
 **Attendance Percentage Calculation:**
+```
 ##Attendance % = (Present + Late + EarlyLeave) / Working Weekdays × 100##
+```
 - Weekends (Saturday, Sunday) are excluded
 - Only recorded entries affect the numerator; unrecorded days reduce percentage
 
@@ -185,9 +187,9 @@ The application features a **modern, professional UI** with:
 - **Top Filter Bar:** Search box, department dropdown, status dropdown
 - **Data Grid:** Sortable table with alternating row colors
 - **Status Bar:** Shows employee count, active count, monthly payroll
-
-### Color Scheme
 ```
+### Color Scheme
+
 | Element | Color | Purpose |
 |---------|-------|---------|
 | Primary | #0078D4 | Headers, buttons, accents |
@@ -196,9 +198,9 @@ The application features a **modern, professional UI** with:
 | Danger | #DC3545 | Delete actions |
 | Warning | #FFA500 | Salary raise |
 | Background | #F0F2F5 | Form backgrounds |
-```
-### Design Principles
 
+### Design Principles
+```
 1. **Consistency:** Uniform styling across all forms
 2. **Accessibility:** Clear labels, sufficient contrast, keyboard navigation
 3. **Feedback:** Status messages, confirmation dialogs, validation errors
@@ -248,7 +250,7 @@ The application uses **JSON file storage** (`employees.json`) for simplicity and
 ```
 
 ## 8. Key Code Implementation
-```
+
 ### 8.1 Employee Model (`Models/Employee.cs`)
 
 ```csharp
@@ -336,8 +338,6 @@ private void Load()
     if (list is not null) _employees.AddRange(list);
 }
 ```
-
----
 
 ## 9. Screenshots
 
